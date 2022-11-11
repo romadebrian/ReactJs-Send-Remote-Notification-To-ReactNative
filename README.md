@@ -1,4 +1,4 @@
-# To Exmaple Project React Native Notification
+# To Exmaple Project React Native Notification (Client)
 
 https://github.com/romadebrian/React-Native-Push-Notification.git
 
